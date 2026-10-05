@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Białas
+# 👋 Hi, I'm Bartłomiej Białas
 
-### 💻 Aspiring Full-Stack Developer | Computer Science Student
+###  Aspiring Full-Stack Developer | Computer Science Student
 
 I'm a computer science student with a strong interest in **software development, web technologies, and building practical applications**.
 
@@ -8,7 +8,7 @@ Over the past three years, I've been developing my programming knowledge through
 
 ---
 
-## 🛠️ Technologies & Languages
+## Technologies & Languages
 
 ### Programming Languages
 
@@ -21,7 +21,7 @@ Over the past three years, I've been developing my programming knowledge through
 
 ---
 
-## 🚀 What I'm Interested In
+## What I'm Interested In
 
 * 🌐 Full-Stack Web Development
 * 💻 Software Engineering
@@ -32,7 +32,7 @@ Over the past three years, I've been developing my programming knowledge through
 
 ---
 
-## 🎓 Background
+## Background
 
 I have spent the past **three years studying computer science in technical high school**, developing a foundation in programming and information technology.
 
@@ -40,7 +40,7 @@ Alongside my education, I gained professional experience through an **internship
 
 ---
 
-## 📈 Currently
+## Currently
 
 I'm focused on improving my programming skills, creating projects, expanding my knowledge across the development stack, and working toward my first professional opportunity as a **software/full-stack developer**.
 
@@ -48,6 +48,6 @@ I'm focused on improving my programming skills, creating projects, expanding my 
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm always interested in **technology, programming, new projects, and opportunities to grow as a developer.**
